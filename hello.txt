@@ -13,4 +13,4 @@ hello git! hello xqy!
 hello git! hello xqy!
 hello git! hello xqy!
 hello git! hello xqy master text!
-hello git! hello xqy!
+hello git! hello xqy hot-fix test!
